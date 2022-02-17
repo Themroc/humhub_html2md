@@ -1,0 +1,12 @@
+{
+	"id": "html2md",
+	"name": "Html to markdown",
+	"description": "Library to convert html to markdown",
+	"keywords": [
+	],
+	"version": "0.9.0",
+	"humhub": {
+		"minVersion": "1.2"
+	},
+	"screenshots": []
+}
