@@ -18,7 +18,7 @@ class Module extends \humhub\components\Module
 
 	function convert ($html, $options= null)
 	{
-		require_once(__DIR__ . 'lib/vendor/autoload.php');
+		require_once(__DIR__ . '/lib/vendor/autoload.php');
 
 		// see lib/vendor/league/html-to-markdown/README.md for possible options
 		$defaults= [
