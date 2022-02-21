@@ -2,6 +2,8 @@
 
 namespace themroc\humhub\modules\html2md;
 
+use League\HTMLToMarkdown\HtmlConverter;
+
 /**
  * @inheritdoc
  */
